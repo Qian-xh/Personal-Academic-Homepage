@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Qian Xiaohe | Personal Academic Homepage</title>
+    <meta
+      name="description"
+      content="Personal academic homepage featuring academic profile, research interests, publications, and contact information."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Back to homepage">
+        <span class="brand-mark" data-field="initials">QX</span>
+        <span data-field="displayName">Qian Xiaohe</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow" data-field="tagline">Personal Academic Homepage</p>
+          <h1 id="hero-title" data-field="heroTitle">Personal Academic Homepage</h1>
+          <p class="lead" data-field="summary"></p>
+          <div class="hero-actions" id="hero-actions"></div>
+        </div>
+
+        <aside class="profile-panel" aria-label="Profile information">
+          <img id="avatar" src="assets/qian-xiaohe-photo.png" alt="Qian Xiaohe portrait" />
+          <dl class="profile-facts" id="profile-facts"></dl>
+        </aside>
+      </section>
+
+      <section id="about" class="section two-column">
+        <div>
+          <p class="section-kicker">About</p>
+          <h2>About</h2>
+        </div>
+        <div class="prose" id="bio"></div>
+      </section>
+
+      <section id="research" class="section">
+        <div class="section-heading">
+          <p class="section-kicker">Research</p>
+          <h2>Research Interests</h2>
+        </div>
+        <div class="research-grid" id="research-list"></div>
+      </section>
+
+      <section id="publications" class="section">
+        <div class="section-heading">
+          <p class="section-kicker">Publications</p>
+          <h2>Selected Publications</h2>
+        </div>
+        <div class="publication-list" id="publication-list"></div>
+      </section>
+
+      <section id="contact" class="section">
+        <div class="section-heading">
+          <p class="section-kicker">Contact</p>
+          <h2>Contact</h2>
+        </div>
+        <div class="contact-grid" id="contact-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span id="footer-name"></span>
+      <span>Last updated: <time id="last-updated"></time></span>
+      <span id="view-counter" aria-live="polite"></span>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
