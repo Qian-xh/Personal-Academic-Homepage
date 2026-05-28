@@ -4,15 +4,15 @@ window.siteData = {
     displayName: "Qian Xiaohe",
     chineseName: "钱晓鹤",
     initials: "QX",
-    gender: "Please update",
-    institution: "Please update institution",
-    degree: "Please update degree or current program",
+    gender: "Male",
+    institution: "Institute of Geographic Science and Natural Resources Research, CAS",
+    degree: "PhD student",
     title: "Doctoral Researcher",
     avatar: "assets/qian-xiaohe-photo.png",
-    tagline: "Personal Academic Homepage | Mountain Hydrology | Soil Erosion",
+    tagline: "Personal Academic Homepage | Hillslope Hydrology | Soil Erosion",
     heroTitle: "Studying rainfall, infiltration, runoff generation, and soil erosion on mountain hillslopes.",
     summary:
-      "This website presents my academic profile, research interests, selected publications, and contact information. For later maintenance, most content can be updated directly in data.js.",
+      "This website presents my academic profile, research interests, selected publications, and contact information.",
     bio: [
       "My research focuses on mountain ecohydrology, hillslope runoff generation, preferential flow, soil erosion, and the mechanisms of flash-flood hazards. I am particularly interested in how water is redistributed among soil matrices, root-induced macropores, rock-soil interfaces, and hillslope surfaces under extreme rainfall.",
       "My work combines field observations, rainfall simulation experiments, tracer techniques, geomorphic process analysis, and data-driven modeling. The broader goal is to improve process-based understanding and prediction of runoff, sediment transport, and mountain-hazard risks."
@@ -89,7 +89,7 @@ window.siteData = {
       label: "Google Scholar",
       icon: "scholar",
       value: "Please replace with your Google Scholar profile",
-      url: "https://scholar.google.com/scholar?q=%22Qian+Xiaohe%22+OR+%22Xiaohe+Qian%22"
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=DSjmVxMAAAAJ"
     },
     {
       label: "GitHub",
