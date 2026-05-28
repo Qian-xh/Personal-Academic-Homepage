@@ -9,7 +9,7 @@ window.siteData = {
     degree: "PhD student",
     title: "Doctoral Researcher",
     avatar: "assets/qian-xiaohe-photo.png",
-    tagline: "Personal Academic Homepage | Hillslope Hydrology | Soil Erosion",
+    tagline: "Personal Homepage | Hillslope Hydrology | Soil Erosion",
     heroTitle: "Studying rainfall, infiltration, runoff generation, and soil erosion on mountain hillslopes.",
     summary:
       "This website presents my academic profile, research interests, selected publications, and contact information.",
