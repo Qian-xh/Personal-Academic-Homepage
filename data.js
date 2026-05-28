@@ -88,13 +88,13 @@ window.siteData = {
     {
       label: "Google Scholar",
       icon: "scholar",
-      value: "Please replace with your Google Scholar profile",
+      value: "Qian Xiaohe/Google Scholar profile",
       url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=DSjmVxMAAAAJ"
     },
     {
       label: "GitHub",
       icon: "github",
-      value: "Please replace with your GitHub profile",
+      value: "Qian Xiaohe/Github Page",
       url: "https://github.com/search?q=%22Qian+Xiaohe%22&type=users"
     }
   ]
