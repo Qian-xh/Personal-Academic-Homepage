@@ -66,7 +66,7 @@ window.siteData = {
       link: "https://www.aeeisp.com/nygcxb/en/article/Y2022/I8/88"
     }
   ],
-  social accounts: [
+  contacts: [
     {
       label: "Phone",
       icon: "phone",
