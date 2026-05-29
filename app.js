@@ -83,7 +83,7 @@ function renderProfile() {
   actionNode.innerHTML = "";
   actionNode.append(
     createLink("button", "#publications", "View Publications", "Jump to publications", true),
-    createLink("button", "#contact", "Contact", "Jump to contact")
+    createLink("button", "#contact", "Social Accounts", "Jump to social accounts")
   );
 }
 
