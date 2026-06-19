@@ -85,6 +85,19 @@ function renderProfile() {
     createLink("button", "#publications", "View Publications", "Jump to publications", true),
     createLink("button", "#contact", "Social Accounts", "Jump to social accounts")
   );
+
+  const metaNode = document.querySelector("#hero-meta");
+  metaNode.innerHTML = "";
+  [
+    ["Publications", data.publications.length],
+    ["Research Areas", data.research.length],
+    ["Latest Update", data.lastUpdated]
+  ].forEach(([label, value]) => {
+    const item = document.createElement("div");
+    item.className = "hero-meta-item";
+    item.innerHTML = `<strong>${value}</strong><span>${label}</span>`;
+    metaNode.append(item);
+  });
 }
 
 function renderResearch() {
