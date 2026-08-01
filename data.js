@@ -10,11 +10,11 @@ window.siteData = {
     title: "Doctoral Researcher",
     avatar: "assets/qian-xiaohe-photo.png",
     tagline: "Personal Homepage | Hillslope Hydrology | Soil Erosion",
-    heroTitle: "Studying rainfall, infiltration, runoff generation, and soil erosion on mountain hillslopes.",
+    heroTitle: "Studying infiltration and subsurface flow on hillslopes.",
     summary:
       "This website presents my academic profile, research interests, selected publications, and social accounts.",
     bio: [
-      "My research focuses on mountain ecohydrology, hillslope runoff generation, preferential flow, soil erosion, and the mechanisms of flash-flood hazards. I am particularly interested in how water is redistributed among soil matrices, root-induced macropores, rock-soil interfaces, and hillslope surfaces under extreme rainfall.",
+      "My research focuses on preferential flow, stormflow and the mechanisms of flash-flood hazards. I am particularly interested in how water is redistributed among soil matrices, root-induced macropores, rock-soil interfaces, and hillslope surfaces under extreme rainfall.",
       "My work combines field observations, rainfall simulation experiments, tracer techniques, geomorphic process analysis, and data-driven modeling. The broader goal is to improve process-based understanding and prediction of runoff, sediment transport, and mountain-hazard risks."
     ]
   },
