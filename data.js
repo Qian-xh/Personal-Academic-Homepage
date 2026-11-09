@@ -166,8 +166,8 @@ window.siteData = {
     {
       label: "ResearchGate",
       icon: "researchgate",
-      value: "ResearchGate author/publication page",
-      url: "https://www.researchgate.net/scientific-contributions/Xiaohe-Qian-2343372651"
+      value: "Xiaohe Qian on ResearchGate",
+      url: "https://www.researchgate.net/profile/Xiaohe-Qian"
     },
     {
       label: "Google Scholar",
