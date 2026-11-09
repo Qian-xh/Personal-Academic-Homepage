@@ -1,11 +1,11 @@
 window.siteData = {
-  lastUpdated: "2026-06-06",
+  lastUpdated: "2026-11-09",
   profile: {
     displayName: "Qian Xiaohe",
     chineseName: "\u94b1\u6653\u9e64",
     initials: "QX",
     gender: "Male",
-    institution: "Institute of Geographic Science and Natural Resources Research, CAS",
+    institution: "Institute of Geographic Sciences and Natural Resources Research, CAS",
     degree: "PhD student",
     title: "Doctoral Researcher",
     avatar: "assets/qian-xiaohe-photo.png",
@@ -38,6 +38,27 @@ window.siteData = {
   ],
   publications: [
     {
+      "year": "2027",
+      "title": "Root-induced preferential flow in the critical zone: Observations, processes, mechanisms, and modeling",
+      "authors": "Xiaohe Qian, Guotao Zhang, Peng Cui, Yao Jiang, L. Adrian Bruijnzeel, Jintao Liu, Haiyan Fang, Xinsen Chen, Jian Guo, Chao Ma, Chaoyue Li, Carlo Gualtieri, Nazir Ahmed Bazai, Dongfeng Li, Jiumao Xu, Guilin Han",
+      "venue": "Earth-Science Reviews, 284, 105734 (January 2027 issue; available online in 2026). DOI: 10.1016/j.earscirev.2026.105734",
+      "link": "https://doi.org/10.1016/j.earscirev.2026.105734"
+    },
+    {
+      "year": "2026",
+      "title": "Effects of simulated successive extreme rainfall events on surface and belowground runoff and soil loss on flumes that mimic soil-mantled karst slopes",
+      "authors": "Qian Fang, Zhen Han, Chunhua Fan, Fayong Fang, Xiaohe Qian, Ruyi Zi, Longshan Zhao",
+      "venue": "CATENA, 272, 110311. DOI: 10.1016/j.catena.2026.110311",
+      "link": "https://doi.org/10.1016/j.catena.2026.110311"
+    },
+    {
+      "year": "2026",
+      "title": "Unpacking the catastrophic cascade of the 2026 Gyirong disaster",
+      "authors": "Jian Guo, Peng Cui, Guotao Zhang, Chendi Zhang, Hao Wang, Yao Li, Jiao Wang, Bo Zhang, Chenxiao Tang, Haoyi Yao, Xiaoqian Fu, Xiaohe Qian, Chaodong Zhou, Yaqiao Wu",
+      "venue": "Science Bulletin. Online first: 17 September 2026. DOI: 10.1016/j.scib.2026.09.049",
+      "link": "https://doi.org/10.1016/j.scib.2026.09.049"
+    },
+    {
       year: "2026",
       title: "Mosses and cyanobacteria increased soil moisture and alleviated soil dehydration caused by dry-wet alternation in subtropical humid region",
       authors: "Ruyi Zi, Zhen Han, Qian Fang, Xiaoai Yin, Fayong Fang, Xiaohe Qian, Sheng Li, Longshan Zhao",
@@ -47,28 +68,28 @@ window.siteData = {
     {
       year: "2026",
       title: "Spatiotemporal evolution characteristics and driving forces of flash flood disasters in upper Minjiang River basin",
-      authors: "Chen Xinsen, Zhang Guotao, Qian Xiaohe, et al.",
+      authors: "Chen Xinsen, Zhang Guotao, Qian Xiaohe, et al",
       venue: "Journal of Soil and Water Conservation, 40(1), 297-309. DOI: 10.13870/j.cnki.stbcxb.2026.01.030",
       link: "https://www.stbcxb.com.cn/en/article/doi/10.13870/j.cnki.stbcxb.2026.01.030/"
     },
     {
       year: "2026",
-      title: "Research progress on observation index system and technology for water-soil processes of flash floods and debris flows",
-      authors: "Zhang Guotao, Cui Peng, Guo Jian, Li Chaoyue, Zhang Xingdi, Qian Xiaohe, Song Zhiri, Si Wen",
-      venue: "China Flood & Drought Management. Online first: 14 May 2026",
-      link: ""
+      title: "Research progress on the indicator system and techniques for observing soil-water processes in flash flood and debris flows",
+      authors: "Zhang Guotao, Cui Peng, Guo Jian, Li Chaoyue, Zhang Chendi, Qian Xiaohe, Song Dongri, Jin Wen",
+      venue: "China Flood & Drought Management, 36(6), 1-8. DOI: 10.16867/j.issn.1673-9264.2026245",
+      link: "https://cfdm.cn/cn/article/doi/10.16867/j.issn.1673-9264.2026245"
     },
     {
       year: "2024",
       title: "Effect of bedrock permeability on runoff and soil loss in soil-mantled karst slopes under successive rainfall conditions",
-      authors: "Qian Fang, Ruyi Zi, Longshan Zhao, Chunhua Fan, et al.",
+      authors: "Qian Fang, Ruyi Zi, Longshan Zhao, Chunhua Fan, Fayong Fang, Xiaohe Qian",
       venue: "CATENA, 247, 108524. DOI: 10.1016/j.catena.2024.108524",
       link: "https://doi.org/10.1016/j.catena.2024.108524"
     },
     {
       year: "2024",
       title: "Quantifying the effects of rock fragments embedding vs. covering on soil erosion in karst sloping cropland",
-      authors: "Ruyi Zi, Zhen Han, Tingsheng Chen, Fayong Fang, et al.",
+      authors: "Ruyi Zi, Zhen Han, Tingsheng Chen, Fayong Fang, Qian Fang, Lang Peng, Xiaohe Qian, Xiaoai Yin, Longshan Zhao",
       venue: "CATENA, 244, 108234. DOI: 10.1016/j.catena.2024.108234",
       link: "https://doi.org/10.1016/j.catena.2024.108234"
     },
@@ -103,7 +124,7 @@ window.siteData = {
     {
       year: "2023",
       title: "How do belowground bedrock fissures impact soil erosion on karst hillslopes under different rainfall intensity conditions?",
-      authors: "Qian Fang, Longshan Zhao, Chunhua Fan, Fayong Fang, et al.",
+      authors: "Qian Fang, Longshan Zhao, Chunhua Fan, Fayong Fang, Ruyi Zi, Xiaohe Qian, Kaifeng Li",
       venue: "Land Degradation & Development, 34(6), 1830-1841. DOI: 10.1002/ldr.4572",
       link: "https://doi.org/10.1002/ldr.4572"
     },
@@ -112,13 +133,13 @@ window.siteData = {
       title: "Relationship between soil anti-scourability and soil physical properties in karst mountain areas",
       authors: "Ruyi Zi, Longshan Zhao, Xiaohe Qian, Juan Chen",
       venue: "Journal of Soil and Water Conservation, 36(3), 23-29. DOI: 10.13870/j.cnki.stbcxb.2022.03.004",
-      link: "http://www.stbcxb.com.cn/thesisDetails#10.13870/j.cnki.stbcxb.2022.03.004"
+      link: "https://www.stbcxb.com.cn/en/article/doi/10.13870/j.cnki.stbcxb.2022.03.004/"
     },
     {
       year: "2022",
       title: "Influencing factors of rainwater transformation and soil erosion in thin soil hillslope of rock desertification regions",
-      authors: "Fang Qian, Longshan Zhao, Chunhua Fan, Kaifeng Li, Fayong Fang, Xiaohe Qian",
-      venue: "Transactions of the Chinese Society of Agricultural Engineering, 38(8), 88-96. DOI: 10.11975/j.issn.1002-6819.2022.08.011",
+      authors: "Qian Fang, Longshan Zhao, Chunhua Fan, Kaifeng Li, Fayong Fang, Xiaohe Qian",
+      venue: "Transactions of the Chinese Society of Agricultural Engineering, 38(8), 88-97. DOI: 10.11975/j.issn.1002-6819.2022.08.011",
       link: "https://www.aeeisp.com/nygcxb/en/article/Y2022/I8/88"
     },
     {
@@ -157,8 +178,8 @@ window.siteData = {
     {
       label: "GitHub",
       icon: "github",
-      value: "Qian Xiaohe/Github Page",
-      url: "https://github.com/search?q=%22Qian+Xiaohe%22&type=users"
+      value: "Qian-xh on GitHub",
+      url: "https://github.com/Qian-xh"
     }
   ]
 };
